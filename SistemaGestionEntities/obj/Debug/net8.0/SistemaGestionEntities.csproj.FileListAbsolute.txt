@@ -1,0 +1,11 @@
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.deps.json
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\bin\Debug\net8.0\SistemaGestionEntities.pdb
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.AssemblyInfo.cs
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\refint\SistemaGestionEntities.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\SistemaGestionEntities.pdb
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionEntities\obj\Debug\net8.0\ref\SistemaGestionEntities.dll

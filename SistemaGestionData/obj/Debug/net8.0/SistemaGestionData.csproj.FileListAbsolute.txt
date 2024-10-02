@@ -1,0 +1,17 @@
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.deps.json
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.runtimeconfig.json
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionData.pdb
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\bin\Debug\net8.0\SistemaGestionEntities.pdb
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.AssemblyReference.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfoInputs.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.AssemblyInfo.cs
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.csproj.CoreCompileInputs.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaG.92EE484C.Up2Date
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\refint\SistemaGestionData.dll
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.pdb
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\SistemaGestionData.genruntimeconfig.cache
+D:\Christian-Grimberg-58425-Proyecto-Final-main\SistemaGestionData\obj\Debug\net8.0\ref\SistemaGestionData.dll
